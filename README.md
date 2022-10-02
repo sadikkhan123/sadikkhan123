@@ -108,12 +108,6 @@
 
 </details>
 
-<!-- End here -->
-
- <!-- Recent activity using github workflow -->
-
- <!-- Start here -->
-
 <details>
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
