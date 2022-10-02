@@ -112,6 +112,10 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/sadikkhan123/sadikkhan123/pull/3) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
+2. 🎉 Merged PR [#2](https://github.com/sadikkhan123/sadikkhan123/pull/2) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
+3. 🎉 Merged PR [#1](https://github.com/sadikkhan123/sadikkhan123/pull/1) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
+4. ❗️ Opened issue [#3](https://github.com/serresebastien/Nuxt-Tailwind-Responsive-Navbar/issues/3) in [serresebastien/Nuxt-Tailwind-Responsive-Navbar](https://github.com/serresebastien/Nuxt-Tailwind-Responsive-Navbar)
    <!--END_SECTION:activity-->
 ---
  </details>   
