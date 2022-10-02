@@ -76,7 +76,7 @@
 <!-- Start here -->
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Top 5 Programming Languages to learn in 2022](https://imsadikkhan.medium.com/top-5-programming-languages-to-learn-in-2022-14d3b6c169d9?source=rss-ce4833f0c26a------2)
 <!-- BLOG-POST-LIST:END -->
 
   
