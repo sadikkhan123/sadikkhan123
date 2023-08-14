@@ -112,8 +112,8 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sadikkhan123/react-app/pull/1) in [sadikkhan123/react-app](https://github.com/sadikkhan123/react-app)
-2. 🎉 Merged PR [#3](https://github.com/sadikkhan123/sadikkhan123/pull/3) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
+1. 🎉 Merged PR [#1](https://github.com/ItsAyeshaSayyed/Turf-Booking-System-team-Collaboration-/pull/1) in [ItsAyeshaSayyed/Turf-Booking-System-team-Collaboration-](https://github.com/ItsAyeshaSayyed/Turf-Booking-System-team-Collaboration-)
+2. 💪 Opened PR [#1](https://github.com/ItsAyeshaSayyed/Turf-Booking-System-team-Collaboration-/pull/1) in [ItsAyeshaSayyed/Turf-Booking-System-team-Collaboration-](https://github.com/ItsAyeshaSayyed/Turf-Booking-System-team-Collaboration-)
 3. 🎉 Merged PR [#2](https://github.com/sadikkhan123/sadikkhan123/pull/2) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
 4. 🎉 Merged PR [#1](https://github.com/sadikkhan123/sadikkhan123/pull/1) in [sadikkhan123/sadikkhan123](https://github.com/sadikkhan123/sadikkhan123)
    <!--END_SECTION:activity-->
