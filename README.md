@@ -24,9 +24,7 @@
 ###  Connect with me 
 
 <!-- Twitter -->
-<a href="https://twitter.com/sadik__007">
-<img align="left" alt="sadikkhan123 | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" /></a>
-   
+
 <!-- Medium -->
 <a href ="https://imsadikkhan.medium.com/">
 <img align="left" alt="imaaquibali | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a>
